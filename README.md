@@ -2,7 +2,7 @@
 
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](/images/screenshot.jpg)
 
